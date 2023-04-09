@@ -1,4 +1,4 @@
-Hello folks, this is my 2nd project in the process of learning JavaScript. 
+Hello folks,
 
 I made this To-do-app using HTML,CSS and JavaScript.
 
